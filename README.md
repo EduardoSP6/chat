@@ -13,7 +13,7 @@ $ composer install
 
 $ npm install && npm run dev
 
-$ php artisan serve
+$ php artisan serve --host=SEU_IP
 
 $ npm run watch
 
